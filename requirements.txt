@@ -1,0 +1,7 @@
+streamlit==1.29.0
+numpy==1.24.3
+python-dotenv==1.0.0
+# Add these if implementing actual audio recording
+# streamlit-webrtc==0.45.0
+# pydub==0.25.1
+# SpeechRecognition==3.10.0
